@@ -6,9 +6,9 @@
 
 YouTube employs a three-tiered copyright protection system designed to balance the needs of copyright holders, content creators, and viewers. This system includes automated detection technology, manual reporting tools, and a comprehensive dispute resolution process.
 
-![YouTube Copyright Tools Overview](webform.png)
-![Copyright Match Tool](copyright_match_tool.png)
-![Content ID System](content_id.png)
+![YouTube Copyright Tools Overview](screenshots/webform.png)
+![Copyright Match Tool](screenshots/copyright_match_tool.png)
+![Content ID System](screenshots/content_id.png)
 
 ### Copyright Detection Methods
 
@@ -63,7 +63,7 @@ When copyrighted content is detected, the outcome depends on the copyright holde
 
 Unlike Content ID claims, copyright strikes are serious penalties that result from formal DMCA takedown notices. YouTube's strike system works as follows:
 
-![Copyright Strike System](youtube_copyright_strike.png)
+![Copyright Strike System](screenshots/youtube_copyright_strike.png)
 
 **1 Copyright Strike:**
 - Content is removed from YouTube
@@ -92,7 +92,7 @@ Unlike Content ID claims, copyright strikes are serious penalties that result fr
 
 YouTube provides a multi-step dispute process for creators who believe their content was incorrectly flagged:
 
-![Dispute Process](youtube_dispute.png)
+![Dispute Process](screenshots/youtube_dispute.png)
 
 #### Disputing a Content ID Claim:
 
@@ -258,10 +258,10 @@ Uploaded a 16-second unedited audio clip of "Last Last" by Burna Boy with a stat
 - No copyright strike issued to channel
 - Video remains viewable in some territories
 
-![Raw Clip Upload Details](raw_clip_upload_details.png)
-![Raw Clip Published](raw_clip_video_published.png)
-![Raw Clip Copyright Details](raw_clip_copyright_details.png)
-![Raw Clip Partial Block Notice](raw_clip_partially_blocked.png)
+![Raw Clip Upload Details](screenshots/raw_clip_upload_details.png)
+![Raw Clip Published](screenshots/raw_clip_video_published.png)
+![Raw Clip Copyright Details](screenshots/raw_clip_copyright_details.png)
+![Raw Clip Partial Block Notice](screenshots/raw_clip_partially_blocked.png)
 
 **Platform Action:**
 - YouTube's Content ID immediately identified "Last Last" by Burna Boy
@@ -292,9 +292,9 @@ Uploaded a 40-second video containing footage from "Catch Me If You Can" (2002) 
 - No blocking or muting applied
 - Video fully accessible in all regions
 
-![Commentary Clip Upload Details](commentary_clip_upload_details.png)
-![Commentary Clip Published](commentary_clip_video_published.png)
-![Commentary Clip Copyright Status](commentary_clip_copyright_restrictions.png)
+![Commentary Clip Upload Details](screenshots/commentary_clip_upload_details.png)
+![Commentary Clip Published](screenshots/commentary_clip_video_published.png)
+![Commentary Clip Copyright Status](screenshots/commentary_clip_copyright_restrictions.png)
 
 **Platform Action:**
 - YouTube's Content ID identified copyrighted visual content
@@ -329,7 +329,7 @@ Generated an image using Google Gemini with a prompt directly referencing a copy
 
 ### AI Generation
 
-![Mickey Mouse AI Generation](ai_direct_reference_generation.png)
+![Mickey Mouse AI Generation](screenshots/ai_direct_reference_generation.png)
 
 **AI Tool Response:** Despite the direct reference to a copyrighted character, Gemini generated an image showing Mickey Mouse in a detailed spaceship interior with space visible through windows. The character's distinctive features (circular ears, facial structure, clothing) were clearly recognizable.
 
@@ -343,8 +343,8 @@ Generated an image using Google Gemini with a prompt directly referencing a copy
 - No restrictions or claims applied
 - Video fully published and accessible
 
-![Mickey Upload Details](ai_mickey_upload_details.png)
-![Mickey Copyright Check](ai_mickey_copyright_details.png)
+![Mickey Upload Details](screenshots/ai_mickey_upload_details.png)
+![Mickey Copyright Check](screenshots/ai_mickey_copyright_details.png)
 
 **Platform Action:**
 - YouTube's automated copyright check completed successfully
@@ -366,7 +366,7 @@ Generated a completely original image using Google Gemini with no references to 
 
 ### AI Generation
 
-![Friendly Robot AI Generation](ai_control_generation.png)
+![Friendly Robot AI Generation](screenshots/ai_control_generation.png)
 
 **AI Tool Response:** Gemini generated an original image of a stylized brass/copper robot sitting peacefully in a lush forest setting with a bird perched on its hand. The image contained no recognizable copyrighted elements.
 
@@ -380,8 +380,8 @@ Generated a completely original image using Google Gemini with no references to 
 - No restrictions or claims applied
 - Video fully published and accessible
 
-![Robot Upload Details](ai_robot_upload_details.png)
-![Robot Copyright Check](ai_robot_copyright_details.png)
+![Robot Upload Details](screenshots/ai_robot_upload_details.png)
+![Robot Copyright Check](screenshots/ai_robot_copyright_details.png)
 
 **Platform Action:**
 - YouTube's automated copyright check completed successfully
@@ -391,7 +391,7 @@ Generated a completely original image using Google Gemini with no references to 
 
 ### Both Videos Published
 
-![AI Videos Published](ai_videos_published.png)
+![AI Videos Published](screenshots/ai_videos_published.png)
 
 ---
 
